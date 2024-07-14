@@ -1,3 +1,6 @@
+# Release 1.0.2
+* Added github token specification.
+
 # Release 1.0.1
 * Removed github token specification.
 
