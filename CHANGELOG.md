@@ -1,8 +1,2 @@
-# Release 1.0.2
-* Added github token specification.
-
-# Release 1.0.1
-* Removed github token specification.
-
-# Release 1.0.0
-* Created automated github action to create release and artifact.
+# Release 1.0.3
+* Removed old stuff from changelog.
