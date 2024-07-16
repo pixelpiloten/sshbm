@@ -1,2 +1,1 @@
-# Release 1.0.3
-* Removed old stuff from changelog.
+* Modified the documentation to reflect the new way we release sshbm.
